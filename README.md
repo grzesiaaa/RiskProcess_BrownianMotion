@@ -1,5 +1,5 @@
 # RiskProcess_BrownianMotion
-## Authors: Julia Grzegorzewska, Wiktoria Fimińska
+## Authors: Julia Grzegorzewska, [Wiktoria Fimińska](https://github.com/fiminka)
 ### Description
 This is a report for "Symulacje komputerowe" course at Politechnika Wrocławska. It consists of two tasks. 
 
