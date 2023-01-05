@@ -7,6 +7,8 @@ First task was aimed at matching the model of classic Risk Process to the given 
 
 Second task was about to estimate the average exit time of Brownian Motion from given range depending on the starting point.
 
+Detailed instructions in instruction.pdf file. 
+
 ### Technologies
 - **LaTeX** - editor used to make a report in pdf
 - **Jupyter Notebook** - notebook used to write a code
